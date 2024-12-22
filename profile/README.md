@@ -11,6 +11,9 @@ The helment contains various sensor that monitors important values such as:
 - Humidity levels;
 - Worker's accelleration and gyrosocpe position.
 
+Project structure: [Excalidraw link](https://excalidraw.com/#json=sL_7uI93Wu2YqHCmBqEQr,Tz3vk431o0wCJyCnTdIy-Q)
+
+
 ## Contributors
 
 List of all the members that contributed to the project:
